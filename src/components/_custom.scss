@@ -1,0 +1,26 @@
+html {
+  h5 {
+    color: #fff!important;
+  }
+
+  nav .brand-logo,
+  .teal-text.text-lighten-2 {
+     color: #FF4A42 !important;
+   }
+  .teal-text {
+    background-color: rgba(0, 14, 0, 0.6);
+    display: inline-block;
+    padding: 10px 30px;
+  }
+  .btn,
+  .btn:hover,
+  .teal {
+        background-color: #FF4A42 !important;
+  }
+}
+
+.blog-container {
+  .panel-default {
+    margin-top: 40px;
+  }
+}
